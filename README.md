@@ -32,7 +32,7 @@ Separação entre regra de negócio e interface
 
 Uso de construtor para definição de estado inicial
 
-Retorno boolean para controle de operações
+Uso de retorno boolean para validação e controle de operações
 
 💰 Regras do Sistema
 
@@ -50,19 +50,24 @@ Java
 
 Scanner (entrada de dados via terminal)
 
-Como executar
+▶ Como executar
 
 Clone o repositório:
 
 git clone https://github.com/PedroVisan/Banco.git
 
 
-Compile:
+Entre na pasta do projeto:
 
-javac App.java
+cd Banco
 
 
-Execute:
+Compile os arquivos:
+
+javac *.java
+
+
+Execute o programa:
 
 java App
 
@@ -78,6 +83,9 @@ Persistência de dados em arquivo
 
 Interface gráfica
 
-👨‍💻 Autor: Pedro Viana Santos
+👨‍💻 Autor
+
+Pedro Viana Santos
+Desenvolvido como prática de Programação Orientada a Objetos em Java.
 
 Desenvolvido como prática de Programação Orientada a Objetos em Java.
