@@ -54,7 +54,7 @@ Como executar
 
 Clone o repositório:
 
-git clone https://github.com/seu-usuario/banco.git
+git clone https://github.com/PedroVisan/Banco.git
 
 
 Compile:
